@@ -12,6 +12,7 @@ const Loader = props => {
             <div></div>
             <div></div>
             <div></div>
+            <div></div>
         </div>
     )
 }
